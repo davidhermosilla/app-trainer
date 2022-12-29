@@ -15,7 +15,7 @@ return (
         <NavContainer>
           <NavLogo to="/">
               <NavIcon />
-              <h2>App Trainer <span>Management</span></h2>
+              <h2>App Trainer <span>Managements</span></h2>
             </NavLogo>                     
             <div className={`links ${clicked ? 'active' :  ''}`}>
                 <a href='/'>Home</a>
